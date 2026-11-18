@@ -1,4 +1,4 @@
-<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/0f61ab98-c448-4ae5-91bb-2cb3b2fc6422" /># Which assets hold up when the e-commerce markets fall?
+# Which assets hold up when the e-commerce markets fall?
 **Team:** Team 1 · **Topic:** Finance · **Tier:** Beginner
 
 ## TL;DR
@@ -28,6 +28,7 @@ Fill this in last.
 For each finding:
 - One sentence stating what you found
 - The figure that shows it (from figures/)
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/0f61ab98-c448-4ae5-91bb-2cb3b2fc6422" />
 - 2–3 sentences on what it means
 
 End with a short answer to your question.
