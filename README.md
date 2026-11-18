@@ -1,5 +1,5 @@
 # [Project Title]
-**Team:** [names] · **Topic:** [topic] · **Tier:** [tier]
+**Team:** Team 1 · **Topic:** Finance · **Tier:** Beginner
 
 ## TL;DR
 Fill this in last.
